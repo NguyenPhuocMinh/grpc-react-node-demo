@@ -64,7 +64,7 @@ $ docker-compose up
 $ docker-compose up -d --build
 ```
 
-- **Stop docker images\***
+- **Stop docker images**
 
 ```sh
 $ docker-compose down
